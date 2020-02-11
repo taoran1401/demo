@@ -1,0 +1,19 @@
+{
+    "name": "simo/fun",
+    "description": "simo-fun",
+    "authors": [
+        {
+            "name": "taoran",
+            "email": "15013070796@163.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fun\\": "src/"
+        }
+    }
+}
